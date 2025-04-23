@@ -1,18 +1,16 @@
 # Thesis
 
-Repository file structure
-01: Data wrangling/load
+## Repository file structure
 
-02: EDA & Data cleaning
+#### Code:
+- 01: Data wrangling/load
+- 02: EDA & Data cleaning
+- 03: LDA Topic model code
+- 04: NMF Topic model code
+- 05.1: Text chunking for Bert
+- 05.2: Bertopic pipeline  
 
-03: LDA Topic model code
-
-04: NMF Topic model code
-
-05.1: Text chunking for Bert
-
-05.2: Bertopic pipeline  
-
-Figure(map):Figures for all models and EDA
-Abbreviations_dic: List of abbreviations found in texts
-Extended_stopwords: List of stopwords utelized
+#### Extra:
+- Figures:Figures for all models and EDA
+- Abbreviations_dic: List of abbreviations found in texts via ScispaCy
+- Extended_stopwords: List of stopwords utilized
